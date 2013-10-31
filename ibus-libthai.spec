@@ -1,12 +1,12 @@
 Summary:	Thai input method engine for IBus
 Summary(pl.UTF-8):	Silnik metody wprowadzania znaków tajskich dla platformy IBus
 Name:		ibus-libthai
-Version:	0.1.1
+Version:	0.1.2
 Release:	1
 License:	GPL v2+
 Group:		Libraries
 Source0:	http://linux.thai.net/pub/thailinux/software/libthai/%{name}-%{version}.tar.xz
-# Source0-md5:	5fb5a6d63944e61db05c1b6353d83850
+# Source0-md5:	d0f22581fb651b659d0e2dc6f7f84e6d
 URL:		http://linux.thai.net/
 BuildRequires:	gettext-devel >= 0.18.1
 BuildRequires:	glib2-devel >= 2.0
