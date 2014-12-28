@@ -8,7 +8,7 @@ Group:		Libraries
 Source0:	http://linux.thai.net/pub/thailinux/software/libthai/%{name}-%{version}.tar.xz
 # Source0-md5:	d0f22581fb651b659d0e2dc6f7f84e6d
 URL:		http://linux.thai.net/
-BuildRequires:	gettext-devel >= 0.18.1
+BuildRequires:	gettext-tools >= 0.18.1
 BuildRequires:	glib2-devel >= 2.0
 BuildRequires:	gtk+3-devel >= 3.0
 BuildRequires:	ibus-devel >= 1.3.0
